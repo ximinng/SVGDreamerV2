@@ -1,6 +1,7 @@
 # SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.17832-b31b1b.svg)](https://arxiv.org/abs/2411.17832)
+[![website](https://img.shields.io/badge/Website-Gitpage-4CCD99)](https://github.com/ximinng/SVGDreamerV2)
 
 Official implementation for "SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation"
 
